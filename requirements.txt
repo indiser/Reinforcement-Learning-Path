@@ -3,3 +3,5 @@ torchvision
 tensorboard
 gymnasium
 stable-baselines3
+swig
+gymnasium[box2d]
